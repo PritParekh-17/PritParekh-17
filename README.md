@@ -4,7 +4,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/231457098%3Fv=4&w=220&h=220&fit=cover&mask=hexagon&maxage=7d" width="180"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/231457098%3Fv=4&w=220&h=220&fit=cover&mask=hexagon&maxage=1h" width="180"/>
 
 ### Prit Parekh
 
@@ -226,16 +226,6 @@ A quiz application built while contributing to the GDG DDU Web Development Team.
 </div>
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:43CBFF,100:9708CC"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PritParekh-17&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000&icon_color=4CC9F0&text_color=ffffff" width="80%" />
-
-</div>
 
 
 
